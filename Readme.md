@@ -11,6 +11,15 @@ The Idea behind it to develop the tool that it able to work like a dropper and p
 - Sends the text file using email
 - ✨Magic ✨ is occured
 
+## Topics - Project Covering
+
+- PyQt5
+- Os
+- PathLib
+- Multiprocessing
+- Sys
+- win32Api
+
 
 ## Lib
 
